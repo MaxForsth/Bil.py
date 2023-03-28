@@ -1,9 +1,11 @@
-<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>60</x><y>20</y><w>160</w><h>200</h></coordinates><panel_attributes>Bil
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>60</x><y>20</y><w>160</w><h>230</h></coordinates><panel_attributes>Bil
 --
 fabrikat : str
 color : str
 lager : int
 --
+init:constructor
+
 setFabrikat (str)
 getFabrikat () : str
 
